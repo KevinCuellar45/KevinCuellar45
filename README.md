@@ -24,7 +24,7 @@
 
 ## 🛠️ Technical Skills
 ### 💻 Programming Languages
-- Python (Django, Flask)
+- Python
 - PHP
 - JavaScript
 - SQL
