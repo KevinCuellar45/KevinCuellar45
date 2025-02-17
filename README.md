@@ -15,6 +15,29 @@
   </table>
 </div>
 
-## About me
-- Backend Developer and 
-- Passionate about artificial intelligence
+## About Me
+- Backend Developer Junior and AI Developer Junior specialized in Python, PHP, and JavaScript
+- Passionate about artificial intelligence and machine learning implementations
+- Experience with database management systems (MySQL) and containerization (Docker)
+- Skilled in building scalable web applications and RESTful APIs
+- Committed to writing clean, maintainable code and following best practices
+
+## Technical Skills
+### Programming Languages
+- Python
+- PHP
+- JavaScript
+- SQL
+
+### Tools & Technologies
+- Docker & Containerization
+- MySQL & Database Design
+- Git Version Control
+- API Development & Integration
+- Linux/Unix Systems
+
+### AI & Machine Learning
+- Machine Learning Fundamentals
+- Data Preprocessing & Analysis
+- Neural Networks
+- Python ML Libraries (TensorFlow, scikit-learn)
